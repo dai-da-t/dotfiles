@@ -21,6 +21,7 @@ do
     command ln -snf $f $HOME
 done
 
+chmod +x $DOTPATH/etc/*.sh
 case ${OSTYPE} in
     darwin*)
         command $DOTPATH/etc/mac.sh
