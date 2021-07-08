@@ -21,6 +21,7 @@ alias ungz="tar -zxvf"
 alias sz='source ~/.zshrc'
 alias bu='brew update && brew upgrade'
 alias ssha='ssh -o StrictHostKeyChecking=no'
+alias xre='~/.xkeysnail/restart.sh'
 
 abbrev-alias -g G="| grep --color=auto"
 abbrev-alias -g L="| less"
