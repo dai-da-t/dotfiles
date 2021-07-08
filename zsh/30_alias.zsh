@@ -15,7 +15,6 @@ alias gf="git fetch"
 alias gc="git commit"
 alias cp="cp -i"
 alias mv="mv -i"
-alias rm="rm -i"
 alias untar="tar -xvf"
 alias ungz="tar -zxvf"
 alias sz='source ~/.zshrc'
